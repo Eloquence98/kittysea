@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kittysea/static/css/main.d4b7fdbe.css",
+    "main.js": "/kittysea/static/js/main.58578b17.js",
+    "static/js/787.d2d050db.chunk.js": "/kittysea/static/js/787.d2d050db.chunk.js",
+    "index.html": "/kittysea/index.html",
+    "main.d4b7fdbe.css.map": "/kittysea/static/css/main.d4b7fdbe.css.map",
+    "main.58578b17.js.map": "/kittysea/static/js/main.58578b17.js.map",
+    "787.d2d050db.chunk.js.map": "/kittysea/static/js/787.d2d050db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4b7fdbe.css",
+    "static/js/main.58578b17.js"
+  ]
+}
